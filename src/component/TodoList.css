@@ -1,0 +1,14 @@
+ body{
+   display: flex;
+   justify-content: center;
+   align-items: center;
+ background: #333;
+
+ }
+   .Todo{
+      background-color: rgb(176, 210, 210);
+      Color: rgb(119, 85, 85);
+      font-size:20px ;
+      border-radius:10px ;
+      
+      }

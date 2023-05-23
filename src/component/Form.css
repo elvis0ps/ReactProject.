@@ -1,0 +1,109 @@
+.form {
+
+
+ padding-top: 1rem;
+
+ /* padding-left: 1rem; */
+ margin-top: 10px;
+
+ background-color: #5f8ad4;
+
+ height: 19rem;
+
+ border-radius: 10px;
+
+ color: #1c4648;
+
+ text-align: center;
+
+}
+
+.username {
+
+ line-height: 1rem;
+
+ color: #1c4648;
+
+}
+
+.username input {
+
+ border: none;
+
+ height: 1.5rem;
+
+ width: 11rem;
+
+ border-radius: 5px;
+
+ padding-left: 1rem;
+
+ background-color: #ecfffb;
+
+}
+
+.username input::placeholder {
+
+ color: #1c4648;
+
+}
+
+
+
+
+.password {
+
+ line-height: 1rem;
+
+ color: #1c4648;
+
+}
+
+.password input {
+
+ border: none;
+
+ height: 1.5rem;
+
+ width: 11rem;
+
+ border-radius: 5px;
+
+ padding-left: 1rem;
+
+ background-color: #ecfffb;
+
+}
+
+.password input::placeholder {
+
+ color: #1c4648;
+
+}
+
+
+
+
+.btn {
+
+ border: none;
+
+ background-color: #2d767f;
+
+ height: 1.5rem;
+
+ width: 5rem;
+
+ border-radius: 5px;
+
+ cursor: pointer;
+
+}
+
+
+
+
+
+
+
+
